@@ -1,0 +1,21 @@
+{
+    "name": "hbsolutions/php-immutable",
+    "description": "Yet another implementation of Immutable Objects in PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HBS\\Immutable\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HBS Development Team",
+            "email": "dev.hbsolutions@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4"
+    }
+}
